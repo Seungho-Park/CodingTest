@@ -20,8 +20,12 @@
 
 
 ## Codility
-### Lesson 1
+### Lesson 1 - Iterations
 1. [BinaryGap](/Codility/Lesson1/BinaryGap.md)
-## Lesson 2
+
+## Lesson 2 - Arrays
 1. [CyclicRotation](/Codility/Lesson2/CyclicRotation.md)
 2. [OddOccurrencesInArray](/Codility/Lesson2/OddOccurrencesInArray.md)
+
+## Lesson 3 - Time Complexity
+1. [FrogJmp](/Codility/Lesson3/FrogJmp.md)
