@@ -24,3 +24,4 @@
 1. [BinaryGap](/Codility/Lesson1/BinaryGap.md)
 ## Lesson 2
 1. [CyclicRotation](/Codility/Lesson2/CyclicRotation.md)
+2. [OddOccurrencesInArray](/Codility/Lesson2/OddOccurrencesInArray.md)
