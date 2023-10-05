@@ -17,3 +17,8 @@
 ### Level4
 
 ### Level5
+
+
+## Codility
+### Lesson 1
+1. [BinaryGap](/Codility/Lesson1/BinaryGap.md)
