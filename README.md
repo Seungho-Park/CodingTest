@@ -31,3 +31,4 @@
 ## Lesson 3 - Time Complexity
 1. [FrogJmp](/Codility/Lesson3/FrogJmp.md)
 2. [PermMissingElem](/Codility/Lesson3/PermMissingElem.md)
+3. [TapeEquilibrium](/Codility/Lesson3/TapeEquilibrium.md)
