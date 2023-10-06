@@ -16,6 +16,7 @@
 2. [기능개발](/Programmers/기능개발.md)
 3. [프로세스](/Programmers/프로세스.md)
 4. [타겟 넘버](/Programmers/타겟%20넘버.md)
+5. [다음 큰 숫자](/Programmers/다음%20큰%20숫자.md)
 ### Level3
 1. [입국심사](/Programmers/입국심사.md)
 ### Level4
