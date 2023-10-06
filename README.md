@@ -36,3 +36,6 @@
 1. [FrogJmp](/Codility/Lesson3/FrogJmp.md)
 2. [PermMissingElem](/Codility/Lesson3/PermMissingElem.md)
 3. [TapeEquilibrium](/Codility/Lesson3/TapeEquilibrium.md)
+
+## Lesson 4 - Counting Elements
+1. [FrogRiverOne](/Codility/Lesson4/FrogRiverOne.md)
