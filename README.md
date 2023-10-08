@@ -3,23 +3,23 @@
 ## Programmers
 
 ### Level0
-1. [배열 원소의 길이](/Programmers/배열%20원소의%20길이.md)
-2. [A로 B 만들기.](/Programmers/A로%20B만들기.md)
-3. [가까운 수](/Programmers/가까운%20수.md)
+1. [배열 원소의 길이](/Programmers/Level0/배열%20원소의%20길이.md)
+2. [A로 B 만들기.](/Programmers/Level0/A로%20B만들기.md)
+3. [가까운 수](/Programmers/Level0/가까운%20수.md)
 ### Level1
-1. [최소 직사각형](/Programmers/최소직사각형.md)
-2. [모의고사](/Programmers/모의고사.md)
-3. [시저 암호](/Programmers/시저%20암호.md)
-4. [예산](/Programmers/예산.md)
+1. [최소 직사각형](/Programmers/Level1/최소직사각형.md)
+2. [모의고사](/Programmers/Level1/모의고사.md)
+3. [시저 암호](/Programmers/Level1/시저%20암호.md)
+4. [예산](/Programmers/Level1/예산.md)
 ### Level2
-1. [올바른 괄호](/Programmers/올바른%20괄호.md)
-2. [기능개발](/Programmers/기능개발.md)
-3. [프로세스](/Programmers/프로세스.md)
-4. [타겟 넘버](/Programmers/타겟%20넘버.md)
-5. [다음 큰 숫자](/Programmers/다음%20큰%20숫자.md)
+1. [올바른 괄호](/Programmers/Level2/올바른%20괄호.md)
+2. [기능개발](/Programmers/Level2/기능개발.md)
+3. [프로세스](/Programmers/Level2/프로세스.md)
+4. [타겟 넘버](/Programmers/Level2/타겟%20넘버.md)
+5. [다음 큰 숫자](/Programmers/Level2/다음%20큰%20숫자.md)
 ### Level3
-1. [입국심사](/Programmers/입국심사.md)
-2. [단어 변환](/Programmers/단어%20변환.md)
+1. [입국심사](/Programmers/Level3/입국심사.md)
+2. [단어 변환](/Programmers/Level3/단어%20변환.md)
 ### Level4
 
 ### Level5
