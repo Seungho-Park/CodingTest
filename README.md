@@ -42,3 +42,4 @@
 1. [FrogRiverOne](/Codility/Lesson4/FrogRiverOne.md)
 2. [PermCheck](/Codility/Lesson4/PermCheck.md)
 3. [MaxCounters](/Codility/Lesson4/MaxCounters.md)
+4. [MissingInteger](/Codility/Lesson4/MissingInteger.md)
