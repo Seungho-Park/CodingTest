@@ -43,3 +43,6 @@
 2. [PermCheck](/Codility/Lesson4/PermCheck.md)
 3. [MaxCounters](/Codility/Lesson4/MaxCounters.md)
 4. [MissingInteger](/Codility/Lesson4/MissingInteger.md)
+
+## Lesson 5 - PrefixSum
+1. [PassingCars](/Codility/Lesson5/PassingCars.md)
