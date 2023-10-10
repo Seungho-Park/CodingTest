@@ -46,3 +46,4 @@
 
 ## Lesson 5 - PrefixSum
 1. [PassingCars](/Codility/Lesson5/PassingCars.md)
+2. [CountDiv](/Codility/Lesson5/CountDiv.md)
