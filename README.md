@@ -47,4 +47,5 @@
 ## Lesson 5 - PrefixSum
 1. [PassingCars](/Codility/Lesson5/PassingCars.md)
 2. [CountDiv](/Codility/Lesson5/CountDiv.md)
+3. [GenomicRangeQuery](/Codility/Lesson5/GenomicRangeQuery.md)
 4. [MinAvgTwoSlice](/Codility/Lesson5/MinAvgTwoSlice.md)
