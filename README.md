@@ -52,3 +52,4 @@
 
 ## Lesson 6 - Sorting
 1. [Distinct](/Codility/Lesson6/Distinct.md)
+2. [MaxProductOfThree](/Codility/Lesson6/MaxProductOfThree.md)
