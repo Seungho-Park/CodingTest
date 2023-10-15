@@ -54,6 +54,7 @@
 1. [Distinct](/Codility/Lesson6/Distinct.md)
 2. [MaxProductOfThree](/Codility/Lesson6/MaxProductOfThree.md)
 3. [Triangle](/Codility/Lesson6/Triangle.md)
+4. [NumberOfDiscIntersections](/Codility/Lesson6/NumberOfDiscIntersections.md)
 
 ## Lesson 7 - Stack And Queue
 1. [Brackets](/Codility/Lesson7/Brackets.md)
