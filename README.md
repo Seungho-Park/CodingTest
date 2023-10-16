@@ -58,3 +58,4 @@
 
 ## Lesson 7 - Stack And Queue
 1. [Brackets](/Codility/Lesson7/Brackets.md)
+2. [Fish](/Codility/Lesson7/Fish.md)
