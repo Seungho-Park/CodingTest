@@ -60,3 +60,6 @@
 1. [Brackets](/Codility/Lesson7/Brackets.md)
 2. [Fish](/Codility/Lesson7/Fish.md)
 3. [Nesting](/Codility/Lesson7/Nesting.md)
+
+## Lesson 8 - Leader
+1. [Dominator](/Codility/Lesson8/Dominator.md)
