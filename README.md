@@ -63,3 +63,6 @@
 
 ## Lesson 8 - Leader
 1. [Dominator](/Codility/Lesson8/Dominator.md)
+
+## Lesson 9 - Maximum slice problem
+1. [MaxProfit](/Codility/Lesson9/MaxProfit.md)
