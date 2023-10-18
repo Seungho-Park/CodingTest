@@ -66,3 +66,4 @@
 
 ## Lesson 9 - Maximum slice problem
 1. [MaxProfit](/Codility/Lesson9/MaxProfit.md)
+2. [MaxSliceSum](/Codility/Lesson9/MaxSliceSum.md)
