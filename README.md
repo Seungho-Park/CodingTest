@@ -7,6 +7,7 @@
 2. [A로 B 만들기.](/Programmers/Level0/A로%20B만들기.md)
 3. [가까운 수](/Programmers/Level0/가까운%20수.md)
 4. [신규 아이디 추천](/Programmers/Level1/신규%20아이디%20추천.md)
+5. [안전지대](/Programmers/Level0/안전지대.md)
 ### Level1
 1. [최소 직사각형](/Programmers/Level1/최소직사각형.md)
 2. [모의고사](/Programmers/Level1/모의고사.md)
