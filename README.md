@@ -70,3 +70,4 @@
 
 ## Lesson 10 - Prime and composite numbers
 1. [CountFactors](/Codility/Lesson10/CountFactors.md)
+2. [MinPerimeterRectangle](/Codility/Lesson10/MinPerimeterRectangle.md)
