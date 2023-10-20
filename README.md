@@ -67,3 +67,6 @@
 ## Lesson 9 - Maximum slice problem
 1. [MaxProfit](/Codility/Lesson9/MaxProfit.md)
 2. [MaxSliceSum](/Codility/Lesson9/MaxSliceSum.md)
+
+## Lesson 10 - Prime and composite numbers
+1. [CountFactors](/Codility/Lesson10/CountFactors.md)
