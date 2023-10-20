@@ -21,6 +21,7 @@
 ### Level3
 1. [입국심사](/Programmers/Level3/입국심사.md)
 2. [단어 변환](/Programmers/Level3/단어%20변환.md)
+3. [이중우선순위큐](/Programmers/Level3/이중우선순위큐.md)
 ### Level4
 
 ### Level5
