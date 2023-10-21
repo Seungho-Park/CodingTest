@@ -77,3 +77,6 @@
 ## Lesson 10 - Prime and composite numbers
 1. [CountFactors](/Codility/Lesson10/CountFactors.md)
 2. [MinPerimeterRectangle](/Codility/Lesson10/MinPerimeterRectangle.md)
+
+## Lesson 11 - Sieve of Eratosthenes
+1. [CountNonDivisible](/Codility/Lesson11/CountNonDivisible.md)
