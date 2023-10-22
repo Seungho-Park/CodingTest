@@ -83,3 +83,6 @@
 ## Lesson 11 - Sieve of Eratosthenes
 1. [CountNonDivisible](/Codility/Lesson11/CountNonDivisible.md)
 2. [CountSemiprimes](/Codility/Lesson11/CountSemiprimes.md)
+
+## Lesson 12 - Euclidean algorithm
+1. [ChocolatesByNumbers](/Codility/Lesson12/ChocolatesByNumbers.md)
