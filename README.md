@@ -22,6 +22,7 @@
 5. [다음 큰 숫자](/Programmers/Level2/다음%20큰%20숫자.md)
 6. [롤케이크 자르기](/Programmers/Level2/롤케이크%20자르기.md)
 7. [2개 이하로 다른 비트](/Programmers/Level2/2개%20이하로%20다른%20비트.md)
+8. [오픈채팅방](/Programmers/Level2/오픈채팅방.md)
 ### Level3
 1. [입국심사](/Programmers/Level3/입국심사.md)
 2. [단어 변환](/Programmers/Level3/단어%20변환.md)
