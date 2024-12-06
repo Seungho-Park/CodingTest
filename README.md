@@ -86,3 +86,10 @@
 
 ## Lesson 12 - Euclidean algorithm
 1. [ChocolatesByNumbers](/Codility/Lesson12/ChocolatesByNumbers.md)
+
+## LeetCode
+## Easy
+
+## Medium
+1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
+## Hard
