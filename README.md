@@ -90,6 +90,7 @@
 ## LeetCode
 ## Easy
 1. [13. Roman to Integer](/LeetCode/Easy/13.%20Roman%20to%20Integer.md)
+2. [27. Remove Element](/LeetCode/Easy/27.%20Remove%20Element.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
