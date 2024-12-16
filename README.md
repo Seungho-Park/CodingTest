@@ -95,6 +95,7 @@
 4. [66. Plus One](/LeetCode/Easy/66.%20Plus%20One.md)
 5. [1346. Check If N and Its Double Exist](/LeetCode/Easy/1346.%20Check%20If%20N%20and%20Its%20Double%20Exist.md)
 6. [226. Invert Binary Tree](/LeetCode/Easy/226.%20Invert%20Binary%20Tree.md)
+7. [3264. Final Array State After K Multiplication Operations I](/LeetCode/Easy/3264.%20Final%20Array%20State%20After%20K%20Multiplication%20Operations%20I.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
