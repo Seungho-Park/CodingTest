@@ -103,6 +103,7 @@
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
 2. [29. Divide Two Integers](/LeetCode/Medium/29.%20Divide%20Two%20Integers.md)
 3. [179. Largest Number](/LeetCode/Medium/179.%20Largest%20Number.md)
+4. [2270. Number of Ways to Split Array](/LeetCode/Medium/2270.%20Number%20of%20Ways%20to%20Split%20Array.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
