@@ -102,6 +102,7 @@
 11. [118. Pascal's Triangle](/LeetCode/Easy/118.%20Pascal's%20Triangle.md)
 12. [14. Longest Common Prefix](/LeetCode/Easy/14.%20Longest%20Common%20Prefix.md)
 13. [125. Valid Palindrome](/LeetCode/Easy/125.%20Valid%20Palindrome.md)
+14. [1408. String Matching in an Array](/LeetCode/Easy/1408.%20String%20Matching%20in%20an%20Array.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
