@@ -111,6 +111,7 @@
 6. [7. Reverse Integer](/LeetCode/Medium/7.%20Reverse%20Integer.md)
 7. [1769. Minimum Number of Operations to Move All Balls to Each Box](/LeetCode/Medium/1769.%20Minimum%20Number%20of%20Operations%20to%20Move%20All%20Balls%20to%20Each%20Box.md)
 8. [151. Reverse Words in a String](/LeetCode/Medium/151.%20Reverse%20Words%20in%20a%20String.md)
+9. [39. Combination Sum](/LeetCode/Medium/39.%20Combination%20Sum.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
