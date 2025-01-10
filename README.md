@@ -106,6 +106,7 @@
 15. [3042. Count Prefix and Suffix Pairs I](/LeetCode/Easy/3042.%20Count%20Prefix%20and%20Suffix%20Pairs%20I.md)
 16. [746. Min Cost Climbing Stairs](/LeetCode/Easy/746.%20Min%20Cost%20Climbing%20Stairs.md)
 17. [2231. Largest Number After Digit Swaps by Parity](/LeetCode/Easy/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.md)
+18. [724. Find Pivot Index](/LeetCode/Easy/724.%20Find%20Pivot%20Index.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
