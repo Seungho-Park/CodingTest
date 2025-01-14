@@ -123,6 +123,7 @@
 11. [494. Target Sum](/LeetCode/Medium/494.%20Target%20Sum.md)
 12. [12. Integer to Roman](/LeetCode/Medium/12.%20Integer%20to%20Roman.md)
 13. [3223. Minimum Length of String After Operations](/LeetCode/Medium/3223.%20Minimum%20Length%20of%20String%20After%20Operations.md)
+14. [2657. Find the Prefix Common Array of Two Arrays](/LeetCode/Medium/2657.%20Find%20the%20Prefix%20Common%20Array%20of%20Two%20Arrays.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
