@@ -108,6 +108,7 @@
 17. [2231. Largest Number After Digit Swaps by Parity](/LeetCode/Easy/2231.%20Largest%20Number%20After%20Digit%20Swaps%20by%20Parity.md)
 18. [724. Find Pivot Index](/LeetCode/Easy/724.%20Find%20Pivot%20Index.md)
 19. [884. Uncommon Words from Two Sentences](/LeetCode/Easy/884.%20Uncommon%20Words%20from%20Two%20Sentences.md)
+20. [1732. Find the Highest Altitude](/LeetCode/Easy/1732.%20Find%20the%20Highest%20Altitude.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
