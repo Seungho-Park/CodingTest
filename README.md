@@ -134,6 +134,8 @@
 15. [3271. Hash Divided String](/LeetCode/Medium/3271.%20Hash%20Divided%20String.md)
 16. [874. Walking Robot Simulation](/LeetCode/Medium/874.%20Walking%20Robot%20Simulation.md)
 17. [216. Combination Sum III](/LeetCode/Medium/216.%20Combination%20Sum%20III.md)
+18. [46. Permutations](/LeetCode/Medium/46.%20Permutations.md)
+19. [22. Generate Parentheses](/LeetCode/Medium/22.%20Generate%20Parentheses.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
