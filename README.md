@@ -112,6 +112,7 @@
 16. [3370. Smallest Number With All Set Bits](/LeetCode/Easy/3370.%20Smallest%20Number%20With%20All%20Set%20Bits.md)
 17. [2133. Check if Every Row and Column Contains All Numbers](/LeetCode/Easy/2133.%20Check%20if%20Every%20Row%20and%20Column%20Contains%20All%20Numbers.md)
 18. [26. Remove Duplicates from Sorted Array](/LeetCode/Easy/26.%20Remove%20Duplicates%20from%20Sorted%20Array.md)
+19. [145. Binary Tree Postorder Traversal](/LeetCode/Easy/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
