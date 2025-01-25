@@ -115,6 +115,7 @@
 19. [145. Binary Tree Postorder Traversal](/LeetCode/Easy/145.%20Binary%20Tree%20Postorder%20Traversal.md)
 20. [1863. Sum of All Subset XOR Totals](/LeetCode/Easy/1863.%20Sum%20of%20All%20Subset%20XOR%20Totals.md)
 21. [257. Binary Tree Paths](/LeetCode/Easy/257.%20Binary%20Tree%20Paths.md)
+22. [242. Valid Anagram](/LeetCode/Easy/242.%20Valid%20Anagram.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
