@@ -142,6 +142,7 @@
 20. [77. Combinations](/LeetCode/Medium/77.%20Combinations.md)
 21. [78. Subsets](/LeetCode/Medium/78.%20Subsets.md)
 22. [75. Sort Colors](/LeetCode/Medium/75.%20Sort%20Colors.md)
+23. [153. Find Minimum in Rotated Sorted Array](/LeetCode/Medium/153.%20Find%20Minimum%20in%20Rotated%20Sorted%20Array.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
