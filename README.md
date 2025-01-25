@@ -118,6 +118,7 @@
 22. [242. Valid Anagram](/LeetCode/Easy/242.%20Valid%20Anagram.md)
 23. [942. DI String Match](/LeetCode/Easy/942.%20DI%20String%20Match.md)
 24. [69. Sqrt(x)](/LeetCode/Easy/69.%20Sqrt(x).md)
+25. [374. Guess Number Higher or Lower](/LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
