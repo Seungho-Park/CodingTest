@@ -122,6 +122,7 @@
 26. [796. Rotate String](/LeetCode/Easy/796.%20Rotate%20String.md)
 27. [572. Subtree of Another Tree](/LeetCode/Easy/572.%20Subtree%20of%20Another%20Tree.md)
 28. [1413. Minimum Value to Get Positive Step by Step Sum](/LeetCode/Easy/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.md)
+29. [1991. Find the Middle Index in Array](/LeetCode/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
