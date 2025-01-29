@@ -121,6 +121,7 @@
 25. [374. Guess Number Higher or Lower](/LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.md)
 26. [796. Rotate String](/LeetCode/Easy/796.%20Rotate%20String.md)
 27. [572. Subtree of Another Tree](/LeetCode/Easy/572.%20Subtree%20of%20Another%20Tree.md)
+28. [1413. Minimum Value to Get Positive Step by Step Sum](/LeetCode/Easy/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
