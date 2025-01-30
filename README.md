@@ -15,6 +15,7 @@
 3. [시저 암호](/Programmers/Level1/시저%20암호.md)
 4. [예산](/Programmers/Level1/예산.md)
 5. [[카카오 인턴] 키패드 누르기](/Programmers/Level1/[카카오%20인턴]%20키패드%20누르기.md)
+6. [[KAKAO] 가장 많이 받은 선물](/Programmers/Level1/[KAKAO]%20가장%20많이%20받은%20선물.md)
 ### Level2
 1. [올바른 괄호](/Programmers/Level2/올바른%20괄호.md)
 2. [기능개발](/Programmers/Level2/기능개발.md)
