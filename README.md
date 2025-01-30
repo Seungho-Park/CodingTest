@@ -124,6 +124,7 @@
 28. [1413. Minimum Value to Get Positive Step by Step Sum](/LeetCode/Easy/1413.%20Minimum%20Value%20to%20Get%20Positive%20Step%20by%20Step%20Sum.md)
 29. [1991. Find the Middle Index in Array](/LeetCode/Easy/1991.%20Find%20the%20Middle%20Index%20in%20Array.md)
 30. [1588. Sum of All Odd Length Subarrays](/LeetCode/Easy/1588.%20Sum%20of%20All%20Odd%20Length%20Subarrays.md)
+31. [374. Guess Number Higher or Lower](/LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
