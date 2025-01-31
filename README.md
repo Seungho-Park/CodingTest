@@ -16,6 +16,8 @@
 4. [예산](/Programmers/Level1/예산.md)
 5. [[카카오 인턴] 키패드 누르기](/Programmers/Level1/[카카오%20인턴]%20키패드%20누르기.md)
 6. [[KAKAO] 가장 많이 받은 선물](/Programmers/Level1/[KAKAO]%20가장%20많이%20받은%20선물.md)
+7. [[카카오 인턴십] 크레인 인형뽑기](/Programmers/Level1/[카카오%20인턴십]%20크레인%20인형뽑기%20게임.md)
+
 ### Level2
 1. [올바른 괄호](/Programmers/Level2/올바른%20괄호.md)
 2. [기능개발](/Programmers/Level2/기능개발.md)
@@ -27,6 +29,7 @@
 8. [오픈채팅방](/Programmers/Level2/오픈채팅방.md)
 9. [리코쳇 로봇](/Programmers/Level2/리코쳇%20로봇.md)
 10. [[KAKAO] K진수에서 소수 구하기](/Programmers/Level2/[KAKAO]%20K진수에서%20소수%20구하기.md)
+
 ### Level3
 1. [입국심사](/Programmers/Level3/입국심사.md)
 2. [단어 변환](/Programmers/Level3/단어%20변환.md)
