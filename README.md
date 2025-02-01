@@ -164,6 +164,7 @@
 27. [841. Keys and Rooms](/LeetCode/Medium/841.%20Keys%20and%20Rooms.md)
 28. [102. Binary Tree Level Order Traversal](/LeetCode/Medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
 29. [2396. Strictly Palindromic Number](/LeetCode/Medium/2396.%20Strictly%20Palindromic%20Number.md)
+30. [6. Zigzag Conversion](/LeetCode/Medium/6.%20Zigzag%20Conversion.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
