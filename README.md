@@ -9,6 +9,7 @@
 4. [신규 아이디 추천](/Programmers/Level1/신규%20아이디%20추천.md)
 5. [안전지대](/Programmers/Level0/안전지대.md)
 6. [다항식 더하기](/Programmers/Level0/다항식%20더하기.md)
+
 ### Level1
 1. [최소 직사각형](/Programmers/Level1/최소직사각형.md)
 2. [모의고사](/Programmers/Level1/모의고사.md)
@@ -162,6 +163,7 @@
 26. [238. Product of Array Except Self](/LeetCode/Medium/238.%20Product%20of%20Array%20Except%20Self.md)
 27. [841. Keys and Rooms](/LeetCode/Medium/841.%20Keys%20and%20Rooms.md)
 28. [102. Binary Tree Level Order Traversal](/LeetCode/Medium/102.%20Binary%20Tree%20Level%20Order%20Traversal.md)
+29. [2396. Strictly Palindromic Number](/LeetCode/Medium/2396.%20Strictly%20Palindromic%20Number.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
