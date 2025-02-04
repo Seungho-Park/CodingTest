@@ -135,6 +135,7 @@
 31. [374. Guess Number Higher or Lower](/LeetCode/Easy/374.%20Guess%20Number%20Higher%20or%20Lower.md)
 32. [118. Pascal's Triangle](/LeetCode/Easy/118.%20Pascal's%20Triangle.md)
 33. [1800. Maximum Ascending Subarray Sum](/LeetCode/Easy/1800.%20Maximum%20Ascending%20Subarray%20Sum.md)
+34. [643. Maximum Average Subarray I](/LeetCode/Easy/643.%20Maximum%20Average%20Subarray%20I.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
