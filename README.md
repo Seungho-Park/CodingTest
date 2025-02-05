@@ -138,6 +138,7 @@
 34. [643. Maximum Average Subarray I](/LeetCode/Easy/643.%20Maximum%20Average%20Subarray%20I.md)
 35. [2760. Longest Even Odd Subarray With Threshold](/LeetCode/Easy/2760.%20Longest%20Even%20Odd%20Subarray%20With%20Threshold.md)
 36. [1790. Check if One String Swap Can Make Strings Equal](/LeetCode/Easy/1790.%20Check%20if%20One%20String%20Swap%20Can%20Make%20Strings%20Equal.md)
+37. [3019. Number of Changing Keys](/LeetCode/Easy/3019.%20Number%20of%20Changing%20Keys.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
