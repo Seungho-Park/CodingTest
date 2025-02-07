@@ -174,6 +174,7 @@
 29. [2396. Strictly Palindromic Number](/LeetCode/Medium/2396.%20Strictly%20Palindromic%20Number.md)
 30. [6. Zigzag Conversion](/LeetCode/Medium/6.%20Zigzag%20Conversion.md)
 31. [2139. Minimum Moves to Reach Target Score](/LeetCode/Medium/2139.%20Minimum%20Moves%20to%20Reach%20Target%20Score.md)
+32. [1846. Maximum Element After Decreasing and Rearranging](/LeetCode/Medium/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
