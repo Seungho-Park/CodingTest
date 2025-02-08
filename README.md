@@ -141,6 +141,7 @@
 37. [3019. Number of Changing Keys](/LeetCode/Easy/3019.%20Number%20of%20Changing%20Keys.md)
 38. [171. Excel Sheet Column Number](/LeetCode/Easy/171.%20Excel%20Sheet%20Column%20Number.md)
 39. [1550. Three Consecutive Odds](/LeetCode/Easy/1550.%20Three%20Consecutive%20Odds.md)
+40. [344. Reverse String](/LeetCode/Easy/344.%20Reverse%20String.md)
 
 ## Medium
 1. [2554. Maximum Number of Integers to Choose From a Range I](/LeetCode/Medium/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
