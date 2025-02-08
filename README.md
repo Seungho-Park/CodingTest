@@ -18,6 +18,7 @@
 5. [[카카오 인턴] 키패드 누르기](/Programmers/Level1/[카카오%20인턴]%20키패드%20누르기.md)
 6. [[KAKAO] 가장 많이 받은 선물](/Programmers/Level1/[KAKAO]%20가장%20많이%20받은%20선물.md)
 7. [[카카오 인턴십] 크레인 인형뽑기](/Programmers/Level1/[카카오%20인턴십]%20크레인%20인형뽑기%20게임.md)
+8. [[카카오] 실패율](/Programmers/Level1/[카카오]%20실패율.md)
 
 ### Level2
 1. [올바른 괄호](/Programmers/Level2/올바른%20괄호.md)
