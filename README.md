@@ -30,6 +30,7 @@
 8. [오픈채팅방](/Programmers/Level2/오픈채팅방.md)
 9. [리코쳇 로봇](/Programmers/Level2/리코쳇%20로봇.md)
 10. [[KAKAO] K진수에서 소수 구하기](/Programmers/Level2/[KAKAO]%20K진수에서%20소수%20구하기.md)
+11. [할인 행사](/Programmers/Level2/할인%20행사.md)
 
 ### Level3
 1. [입국심사](/Programmers/Level3/입국심사.md)
