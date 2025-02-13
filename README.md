@@ -179,6 +179,7 @@
 31. [2139. Minimum Moves to Reach Target Score](/LeetCode/Medium/2139.%20Minimum%20Moves%20to%20Reach%20Target%20Score.md)
 32. [1846. Maximum Element After Decreasing and Rearranging](/LeetCode/Medium/1846.%20Maximum%20Element%20After%20Decreasing%20and%20Rearranging.md)
 33. [916. Word Subsets](/LeetCode/Medium/916.%20Word%20Subsets.md)
+34. [3066. Minimum Operations to Exceed Threshold Value II](/LeetCode/Medium/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
