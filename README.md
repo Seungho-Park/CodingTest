@@ -182,6 +182,7 @@
 34. [3066. Minimum Operations to Exceed Threshold Value II](/LeetCode/Medium/3066.%20Minimum%20Operations%20to%20Exceed%20Threshold%20Value%20II.md)
 35. [55. Jump Game](/LeetCode/Medium/55.%20Jump%20Game.md)
 36. [1780. Check if Number is a Sum of Powers of Three](/LeetCode/Medium/1780.%20Check%20if%20Number%20is%20a%20Sum%20of%20Powers%20of%20Three.md)
+37. [670. Maximum Swap](/LeetCode/Medium/670.%20Maximum%20Swap.md)
 
 ## Hard
 1. [4. Median of Two Sorted Arrays](/LeetCode/Hard/2554.%20Maximum%20Number%20of%20Integers%20to%20Choose%20From%20a%20Range%20I.md)
